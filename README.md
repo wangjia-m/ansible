@@ -16,3 +16,5 @@ git remote add origin https://github.com/wangjia-m/test.git
 git push -u origin master  提交到远程仓库
                 
 >>>>>>> 197d0a26f49c4b4dce96126b50a0d7e0f2a7c184
+
+小子你又改了 readme文件
